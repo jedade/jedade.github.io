@@ -712,7 +712,7 @@ body.loaded {
 }
 
 .tj-header-area .logo-box {
-	max-width: 60px;
+	max-width: 150px;
 	width: 100%;
 	margin-right: 35px;
 }
@@ -942,7 +942,7 @@ body.loaded {
 }
 
 .hero-title {
-	font-size: 65px;
+	font-size: 50px;
 	background: var(--tj-theme-primary);
 	background: -webkit-gradient(
 		linear,
